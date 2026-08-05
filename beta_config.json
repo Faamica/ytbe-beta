@@ -1,5 +1,5 @@
 {
-  "beta_enabled": false,
+  "beta_enabled": true,
   "expire_date": "2026-09-30",
   "min_app_version": "0.8.0",
   "latest_app_version": "0.8.0",
