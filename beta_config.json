@@ -1,0 +1,8 @@
+{
+  "beta_enabled": true,
+  "expire_date": "2026-09-30",
+  "min_app_version": "0.8.0",
+  "latest_app_version": "0.8.0",
+  "download_url": "https://github.com/Faamica/ytbe-beta/releases/latest",
+  "message": "베타 테스트가 종료되었습니다. 문의는 스레드로 부탁드립니다."
+}
