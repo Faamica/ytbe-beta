@@ -9,7 +9,12 @@
 
 - **Windows**: `...-windows.zip` — 압축을 풀고 `YouTubeBatchExtractor.exe` 실행
 - **macOS (Apple Silicon / M1 이상)**: `...-macos-arm64.zip`
-- **macOS (Intel)**: `...-macos-intel.zip`
+- **macOS (Intel)**: `...-macos-intel.zip` ⚠️ 아래 참고
+
+> ⚠️ **Intel Mac 버전은 실제 기기에서 검증하지 못했습니다.**
+> 빌드는 정상적으로 만들어졌지만, 개발 환경이 Apple Silicon이라 실행 확인을 못 했습니다.
+> 실행되지 않으면 알려주세요. 환불해 드립니다.
+> (Apple Silicon `arm64`와 Windows 버전은 실행·다운로드까지 확인했습니다)
 
 macOS는 압축을 푼 뒤 앱을 **응용 프로그램 폴더로 옮기고**,
 **마우스 오른쪽 클릭 → `열기` → 다시 `열기`** 로 실행하세요.
