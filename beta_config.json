@@ -2,7 +2,7 @@
   "beta_enabled": true,
   "trial_days": 30,
   "expire_date": "2026-09-30",
-  "min_app_version": "0.9.13",
+  "min_app_version": "0.9.14",
   "latest_app_version": "0.9.14",
   "access_codes": [
     "pbkdf2:933f9997ebde982448df2e4cde3e87ef4495ec762dc1a7a11fb477ef7d18f3be",
