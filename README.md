@@ -1,13 +1,14 @@
-# YouTube Batch Extractor — 베타 배포
+# 부업가장 ViewMine — 베타 배포
 
-**YouTube Batch Extractor** 베타 버전의 설정 파일과 실행 파일을 배포하는 저장소입니다.
-앱 소스 코드는 여기에 없습니다.
+**부업가장 ViewMine** 베타 버전의 설정 파일과 실행 파일을 배포하는 저장소입니다. 앱 소스 코드는 여기에 없습니다.
+
+> **부업가장**이 누적 수익 3억+·누적 조회수 10억+를 만들어낸 분석 방식과 흐름을 그대로 따라가는 프로그램입니다.
 
 ## 다운로드
 
 👉 **[최신 버전 받기](../../releases/latest)**
 
-- **Windows**: `...-windows.zip` — 압축을 풀고 `YouTubeBatchExtractor.exe` 실행
+- **Windows**: `...-windows.zip` — 압축을 풀고 `ViewMine.exe` 실행
 - **macOS (Apple Silicon / M1 이상)**: `...-macos-arm64.zip`
 - **macOS (Intel)**: `...-macos-intel.zip` ⚠️ 아래 참고
 
@@ -37,7 +38,7 @@ macOS는 압축을 푼 뒤 앱을 **응용 프로그램 폴더로 옮기고**,
 
 ## Windows: `_internal` 폴더는 무엇인가요
 
-압축을 풀면 `YouTubeBatchExtractor.exe` 옆에 `_internal` 폴더가 함께 나옵니다.
+압축을 풀면 `ViewMine.exe` 옆에 `_internal` 폴더가 함께 나옵니다.
 앱이 돌아가는 데 필요한 부품이 들어 있는 폴더입니다.
 
 | 들어있는 것 | 용도 |
@@ -146,7 +147,7 @@ macOS는 같은 파일들이 `.app` 안에 들어 있어 겉으로 보이지 않
 **1단계 — 앱 폴더 삭제**
 
 압축을 풀어둔 폴더를 통째로 지웁니다.
-`YouTubeBatchExtractor.exe`와 `_internal` 폴더가 함께 들어 있는 그 폴더입니다.
+`ViewMine.exe`와 `_internal` 폴더가 함께 들어 있는 그 폴더입니다.
 
 > 바탕화면에 바로 가기를 만들어 두셨다면 그것도 함께 지워주세요.
 
@@ -184,7 +185,7 @@ macOS는 같은 파일들이 `.app` 안에 들어 있어 겉으로 보이지 않
 **1단계 — 앱 삭제**
 
 `응용 프로그램` 폴더(또는 압축을 푼 위치)에서
-**`YouTubeBatchExtractor.app`** 을 휴지통으로 옮깁니다.
+**`ViewMine.app`** 을 휴지통으로 옮깁니다.
 
 **2단계 — 설정 폴더 삭제**
 
