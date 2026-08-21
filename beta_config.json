@@ -1,7 +1,6 @@
 {
   "beta_enabled": true,
   "trial_days": 30,
-  "expire_date": "2026-09-30",
   "min_app_version": "0.9.14",
   "latest_app_version": "0.11.12",
   "access_codes": [
