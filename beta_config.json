@@ -1,6 +1,6 @@
 {
   "beta_enabled": true,
-  "trial_days": 30,
+  "trial_days": 50,
   "min_app_version": "0.9.14",
   "latest_app_version": "0.9.14",
   "access_codes": [
@@ -63,7 +63,7 @@
     "pbkdf2:1d58314b1ca1b59548f6a576d5cd887a05b8b23a3b49267b0c96baa94c073d12",
     {
       "hash": "pbkdf2:2f258f15fa93a6890357d365d8940ebb66c8676c392cfa2632b25929f3c2e6c5",
-      "trial_days": 37
+      "trial_days": 57
     },
     "pbkdf2:63252e9bd4e9cd1028bf41b14fc5651e0b83ca9c29c5ef266e14ef7c380dad20",
     "pbkdf2:cdb36120d98e6b9fd12d7b5e8c92a66899bfe7f0702f24708ed7fc307188ec34",
