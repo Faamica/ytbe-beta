@@ -1,4 +1,4 @@
-# ViewMine
+# Grabdeck
 
 [English](#english) · [한국어](#한국어)
 
@@ -6,7 +6,7 @@
 
 # English
 
-This repository distributes the configuration file and release builds of the **ViewMine** desktop app. The app's source code is not here.
+This repository distributes the configuration file and release builds of the **Grabdeck** desktop app. The app's source code is not here.
 
 > The app interface is currently in Korean.
 
@@ -27,12 +27,10 @@ Pick the file for your computer:
 
 - 👉 **[Windows](../../releases/latest/download/ViewMine-windows.zip)** — unzip and run `ViewMine.exe`
 - 👉 **[macOS (Apple Silicon / M1 or later)](../../releases/latest/download/ViewMine-macos-arm64.zip)**
-- 👉 **[macOS (Intel)](../../releases/latest/download/ViewMine-macos-intel.zip)** ⚠️ see note below
 
 > These links download the latest version directly.
 > The **`Source code (zip/tar.gz)`** files on the release page are not the app — you do not need them.
 
-> ⚠️ **The Intel Mac build has not been tested on a real device.** It builds normally, but we develop on Apple Silicon and could not verify that it runs. If it does not run, let us know and we will refund you. (The Apple Silicon `arm64` and Windows builds have been verified.)
 
 On macOS, unzip the app, **move it to the Applications folder**, then **right-click → `Open` → `Open`**. (If you run it without moving it, macOS runs it from a temporary quarantined location.) Double-clicking shows an "unidentified developer" warning because the build is not signed. If it still does not open, go to **System Settings → Privacy & Security → "Open Anyway"**. After the first launch, double-clicking works.
 
@@ -85,13 +83,13 @@ Files you downloaded stay in your save folder. Deleting the settings folder also
 
 ### Contact
 
-faamica@gmail.com
+skykstarfam@gmail.com
 
 ---
 
 # 한국어
 
-**ViewMine** 데스크톱 앱의 설정 파일과 실행 파일을 배포하는 저장소입니다. 앱 소스 코드는 여기에 없습니다.
+**Grabdeck** 데스크톱 앱의 설정 파일과 실행 파일을 배포하는 저장소입니다. 앱 소스 코드는 여기에 없습니다.
 
 ### 주요 기능
 
@@ -110,15 +108,10 @@ faamica@gmail.com
 
 - 👉 **[Windows 다운로드](../../releases/latest/download/ViewMine-windows.zip)** — 압축을 풀고 `ViewMine.exe` 실행
 - 👉 **[macOS (Apple Silicon / M1 이상) 다운로드](../../releases/latest/download/ViewMine-macos-arm64.zip)**
-- 👉 **[macOS (Intel) 다운로드](../../releases/latest/download/ViewMine-macos-intel.zip)** ⚠️ 아래 참고
 
 > 위 버튼은 최신 버전 파일을 곧바로 내려받습니다.
 > 릴리스 페이지에 함께 보이는 **`Source code (zip/tar.gz)`** 는 앱이 아니라 개발용 소스라 **받지 않으셔도 됩니다.**
 
-> ⚠️ **Intel Mac 버전은 실제 기기에서 검증하지 못했습니다.**
-> 빌드는 정상적으로 만들어졌지만, 개발 환경이 Apple Silicon이라 실행 확인을 못 했습니다.
-> 실행되지 않으면 알려주세요. 환불해 드립니다.
-> (Apple Silicon `arm64`와 Windows 버전은 실행·다운로드까지 확인했습니다)
 
 macOS는 압축을 푼 뒤 앱을 **응용 프로그램 폴더로 옮기고**,
 **마우스 오른쪽 클릭 → `열기` → 다시 `열기`** 로 실행하세요.
