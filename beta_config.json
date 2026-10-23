@@ -63,8 +63,16 @@
     "pbkdf2:ad8e94b88412359c82be14b7f367180dcb754e9801ee5e1199aad2c4bf1c48da",
     "pbkdf2:95c110ef946b4c85bc04dadd1f27234f4554a27533964af9de93e55c0c7e79d7",
     "pbkdf2:64b235e4cf260fb73ec3f1bc0a8ac987eaf9e2a7a20a6d50d1176941f2e38b4a",
-    "pbkdf2:d155cb6406248f0b8625545e36e62553f83703b1cc3cb74a63531acaf4320f2e",
-    "pbkdf2:d51570bbd63eec3e9004c985469eb8ed297fc1cf735673ffa5c80078c11c0a1d",
+    {
+      "hash": "pbkdf2:d155cb6406248f0b8625545e36e62553f83703b1cc3cb74a63531acaf4320f2e",
+      "expire_date": "2026-10-22",
+      "trial_days": 3650
+    },
+    {
+      "hash": "pbkdf2:d51570bbd63eec3e9004c985469eb8ed297fc1cf735673ffa5c80078c11c0a1d",
+      "expire_date": "2026-10-22",
+      "trial_days": 3650
+    },
     "pbkdf2:6c61ff7d946d644d6e246fead1249c7ab25fe45d0bf5b7914268ea83251251e3",
     "pbkdf2:0b073eaf742f9e40b26daff3a454b8d513b91a757ad39800a08d5ab776b6d71e",
     "pbkdf2:41ce29c482796fcd16bee67c6a3ef446810ce497adbf1e29aad80afec40ec37b",
@@ -122,7 +130,7 @@
     "pbkdf2:145b13d808a6298f54d2adcf915417eb6fc35ea772812004af4b00e0a7067a9c",
     {
       "hash": "pbkdf2:6bc5ebae384129644bf30ccd8a58ceb439a510e0b344249561aea509cdec16a6",
-      "expire_date": "2026-11-24",
+      "expire_date": "2026-10-22",
       "trial_days": 3650
     },
     "pbkdf2:131bb06a12b3ddb097f32d80f65c75ebc144b71b674fa7d287c6d90219fff623",
